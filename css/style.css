@@ -3,7 +3,7 @@
     margin: 0;
 }
 
-.container{
+.cantainer{
     position: relative;
     width:100%;
     height:100vh;
@@ -34,7 +34,7 @@ nav ul li a{
 
 
 @media(max-width:1280px){
-    .container{
+    .cantainer{
         width: 100%;
     }
 }
@@ -42,7 +42,7 @@ nav ul li a{
 .heroimg {
     width: 45%;
     height: 80%;
-    position: absolute;
+    position: absolute; 
     bottom: 0;
     right: 100px;
 
@@ -98,7 +98,7 @@ nav ul li a{
 .herotxt2 h1 {
         font-size: 30px;
         color:#212121;
-        margin-bottom: 20px;
+        margin-bottom: 40px;
         
     }
 
@@ -126,6 +126,12 @@ nav ul li a{
     transition: all .8s;
 }
 
+.box h1{
+    font-size: 30px;
+    color:#212121;
+    margin-bottom: 20px;
+
+}
 .box:hover{
     background-position: left bottom;
     color: black;
@@ -176,6 +182,4 @@ footer ul li a{
     height: 50px;
 }
 
-img {
-  max-width: 100%;
-}
+
