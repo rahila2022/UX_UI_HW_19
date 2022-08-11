@@ -48,6 +48,8 @@ nav ul li a{
 
 }
 
+
+
 .herotxt {
     margin-left: 8%;
     margin-top: 15%;
@@ -82,6 +84,8 @@ nav ul li a{
     border-radius: 5px;
 }
 
+
+
 /* My UX Skills Section */
 #myuxskills{
     display: flex;
@@ -101,6 +105,8 @@ nav ul li a{
         margin-bottom: 40px;
         
     }
+
+
 
 .row{
     display: flex;
